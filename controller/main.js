@@ -42,7 +42,7 @@ _.extend(exports, {
 			'background-color': '#ffffff',
 			'width': 'fill-parent'
 		});
-		textView1.label("I will full have border!");
+		textView1.label("I will have full border!");
 		textView2.label("I don't have border right!");
 		textView3.label("I don't have border bottom!");
 
